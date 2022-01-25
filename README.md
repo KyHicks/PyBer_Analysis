@@ -5,4 +5,12 @@ Create a DataFrame summary for PyBer, a ride-sharing company, to compare weekly 
 
 ## Results
 
-![DataFrame_summary] (https://github.com/KyHicks/PyBer_Analysis/blob/main/summary_DataFrame.PNG)
+The summary table below shows the ride_sharing data for each city type including total rides, total number of drivers, and total fares.  It also include the data for average fare per ride and per driver.  
+![DataFrame_summary](https://github.com/KyHicks/PyBer_Analysis/blob/main/summary_DataFrame.PNG)
+
+
+
+
+## Summary
+
+
